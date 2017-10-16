@@ -38,6 +38,7 @@ I also learned how to embed a youtube video into Markdown. And damn, it worked o
 
 {% include youtubePlayer.html id="page.youtubeId" %}
 
+
 ```
 
 Must include the double quotes around the video ID as noted by a commenter or it won't work. 
