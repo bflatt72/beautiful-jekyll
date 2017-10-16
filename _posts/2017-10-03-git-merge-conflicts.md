@@ -3,6 +3,7 @@ layout: post
 title: Git Merge Conflicts and Git Revert
 date: 2017-10-03
 category: posts
+comments: true
 tags: [tutorial, blog]
 
 ---
