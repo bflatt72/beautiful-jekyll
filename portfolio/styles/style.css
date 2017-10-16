@@ -1,0 +1,100 @@
+/* 
+  ========================================================
+
+  Global Page Styles
+
+  ========================================================
+
+
+*/
+
+body {
+	/*max-width: 1360px;*/
+	margin: 0 auto;
+	/*color: #888;*/
+    font-family: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: black;
+    font-size: 1.2em;
+      }
+
+/* 
+  =========================================================
+
+  Page Styles
+
+  =========================================================
+
+*/
+
+ nav {
+ 	background-color: gray;
+ 	border-bottom: 1px solid white;
+ }
+
+.footer {
+ 	background-color: gray;
+ }
+
+
+.portfolios {
+	color: #888;
+	background-color: gray;
+	border-bottom: 1px solid white;
+}
+
+
+.social li {
+	list-style-type: none;
+}
+
+ 
+.divider {
+	width: 60%;
+	height: 6px;
+	background-color: gray;
+	color: gray;
+	border: 0 none;
+}
+
+.divider1 {
+	width: 60%;
+	height: 6px;
+	background-color: white;
+	color: white;
+	border: 0 none;
+}
+
+.message {
+	height: 100px;
+	padding-bottom: 70px;
+}
+
+
+/*
+  ==========================================
+
+  Links
+
+  ==========================================
+
+*/
+
+a:hover {
+  color: #a9b2b9;
+}
+
+a {
+  color: #648880;
+  text-decoration: none;
+}
+
+
+.me {
+	height: 275px;
+	width: 250px;
+	border-radius: 50%;
+
+}
+
+
+
