@@ -11,38 +11,12 @@ I'm not sure if this is entirely normal, but I actually spent several hours last
 
 I also added my [Free Code Camp](http://www.freecodecamp) Portfolio project as another page to the blog. I found that in order to do this and bypass the template engine in order to use your own HTML/CSS and not cause conflicts all you have to do is not add the YAML header at the beginning of the HTML file. I then added another button to the portfolio page that links back to the blog and the Flatt Dev logo on the portfolio page links back to the blog. I wanted the portfolio to retain all my original code and not include any of the template layout so as to showcase my own coding skills. 
 
-100daysofcode is going great so far, today was day 20. I have as mentioned, completed the FCC portfolio project and am moving on now to learning JavaScript. I downloaded the first book of You Don't Know Javascript to my Kindle and have read the first chapter so far. I am also going to start a small project I saw on Traversy Media, where he showed how to make a bookmark app that saves bookmarks to local storage, using vanilla JavaScript. 
+100daysofcode is going great so far, today was day 20. I have as mentioned, completed the FCC portfolio project and am moving on now to learning JavaScript. I downloaded the first book of You Don't Know Javascript to my Kindle and have read the first chapter so far. I am also going to start a small project I saw on Traversy Media, where he showed how to make a bookmark app that saves bookmarks to local storage, using Vanilla JavaScript. 
 
 {% include youtubePlayer.html id="DIVfDZZeGxM" %}
 
 I also learned how to embed a youtube video into Markdown. And damn, it worked on the first try. That NEVER happens. haha. Here is how you do it, via Google and this website [Adam Wade Harris](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/)
 
-1. Create a file in your _includes folder and add the following code to it.     
-
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
-
-
-```         
-          
-     
-
-       
-
-
-
-
-2. Wherever in your markdown you want to include the Youtube video embed, just put the following:    
-
-```
-
-{% include youtubePlayer.html id="page.youtubeId" %}
-
-
-```
-
-Must include the double quotes around the video ID as noted by a commenter or it won't work. 
 
 Sometimes, this stuff really is like magic. Other times, things don't work and I'm left staring at the code with arms folded, cursing "#(#*A))*) why isn't this *#))(**(*&### working??!!!!!!!!" and after I look at it awhile, and Google, I'm like, "Oh, my bad! I made a mistake. I see what I did. haha Sorry about that bro!" I talk to myself like that! haha Sometimes it's as simple as missing a semicolon. Other times, it's as simple as adding a class of img-fluid. Other times I have to really dig into it and figure out what it is I'm not understanding. It's frustrating as hell, but when it works? Oh man, I feel like the smartest man alive!! haha
 
