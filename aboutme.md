@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Just another Dude!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Former Navy Nuclear Machinist Mate with civilian experience in manufacturing, process engineering tech, six sigma statistics, Programmable Logic Controllers, and oil/gas terminal operations. Currently attending community college for Computer Information Systems - Computer Programming while learning as much Web Development and Computer Science online as possible through such resources as FreeCodeCamp. Becoming proficient in HTML/CSS/Bootstrap and now embarking on journey to learn and deploy JavaScript web applications, both vanilla JavaScript and associated libraries and frameworks.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
