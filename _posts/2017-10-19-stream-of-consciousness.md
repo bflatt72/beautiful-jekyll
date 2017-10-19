@@ -216,7 +216,7 @@ I've always wondered if I just left, how long it would take anyone to even notic
 
 I wonder what Tom 
 
-![Tom from Myspace](https://github.com/bflatt72/bflatt72.github.io/blob/master/img/tom.jpg)
+<img src="https://github.com/bflatt72/bflatt72.github.io/blob/master/img/tom.jpg" alt="Tom from Myspace">
 
 from Myspace 
 
