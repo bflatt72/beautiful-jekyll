@@ -285,7 +285,9 @@ I want to live my life with more intentionality. I want to be intentional about 
 
 # Read. 
 
-# Do. Social media is meant to be passive, not active. All that time spent, 
+# Do. 
+
+Social media is meant to be passive, not active. All that time spent, 
 
 # wasted, 
 
@@ -296,3 +298,5 @@ what has anyone actually gotten out of it that's worthwhile? What have we gotten
 # I can do better. 
 
 # I will do better. 
+
+Now, I gotta run. I gotta post this blog to my Facebook!
