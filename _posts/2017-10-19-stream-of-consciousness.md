@@ -216,7 +216,7 @@ I've always wondered if I just left, how long it would take anyone to even notic
 
 I wonder what Tom 
 
-<img src="https://github.com/bflatt72/bflatt72.github.io/blob/master/img/tom.jpg" alt="Tom from Myspace">
+![Leo Laporte](/img/tom.jpg){:class="img-responsive center-block" height="150px" width="150px"}
 
 from Myspace 
 
