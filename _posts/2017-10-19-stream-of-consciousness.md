@@ -289,7 +289,7 @@ I want to live my life with more intentionality. I want to be intentional about 
 
 Social media is meant to be passive, not active. All that time spent, 
 
-# wasted
+# wasted.
 
 what has anyone actually gotten out of it that's worthwhile? What have we gotten for our time, besides empty vacuous lives? 
 
