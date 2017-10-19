@@ -80,31 +80,31 @@ Their representative, as Chris Rock used to say about dating.
 
 According to your feed, everyone else is 
 
-#happier 
+# happier 
 
 and 
 
-#leaner 
+# leaner 
 
 and
 
-#stronger
+# stronger
 
 and 
 
-#smarter 
+# smarter 
 
 and 
 
-#better parents 
+# better parents 
 
 and 
 
-#better husbands 
+# better husbands 
 
 and 
 
-#wives. 
+# wives. 
 
 Everyone is better than you. 
 
@@ -118,7 +118,7 @@ I'm better than they are.
 
 Look at their 
 
-#Bullshit 
+# Bullshit 
 
 Look at all their 
 
