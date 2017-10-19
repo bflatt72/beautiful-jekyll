@@ -10,7 +10,7 @@ comments: true
 
 The other day I decided to start writing every single day, even if it's just all gibberish and whatever comes to my mind. The following is the result of the first day. I intended to write for 15 minutes, but thought that would be too difficult, so I settled on five minutes. At first I just sat there staring at the screen, and then I started writing. And writing. And writing. You don't have to agree with everything I said here. I don't agree with everything I said here. But it's how I felt at the moment and still do, the vast majority of the time. Nothing said in the following words was meant to disparage any individual people. It's about all of us. 
 
-Note: I originally wrote this as one long paragraph. Everything you are about to read is exactly the way I wrote it, except for editing into paragraphs and highligting of specific words. And inserted the link for 750 Words. 
+Note: I originally wrote this as one long paragraph. Everything you are about to read is exactly the way I wrote it, except for editing into paragraphs and highlighting of specific words. And inserted the link for 750 Words. 
 
 
 
