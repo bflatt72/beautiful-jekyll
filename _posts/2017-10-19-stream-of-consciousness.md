@@ -12,7 +12,7 @@ The other day I decided to start writing every single day, even if it's just all
 
 Note: I originally wrote this as one long paragraph. Everything you are about to read is exactly the way I wrote it, except for editing into paragraphs and highlighting of specific words. And inserted the link for 750 Words. 
 
-
+<hr>
 
 
 I recently decided to commit to writing for at least 5 minutes every single day. After this is solidified into a habit, I can increase the amount of time spent writing every day. I remember there used to a website called 500 words or something like that, probably still exists, I should look it up, [750 Words](http://750words.com) where I had an account, and the idea was to write so many words every single day. This would be a great way to get ideas out of my head and onto the screen and it will be cool to be able to go back and see what the hell I was thinking over a period of time.
