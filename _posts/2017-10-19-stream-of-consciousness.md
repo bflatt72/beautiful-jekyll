@@ -130,7 +130,9 @@ But me?
 
 I may not have it ALL together but I'm better than they are. Maybe not as perfect as all the 
 
-#"beautiful people" Marilyn Manson sang about, but I'm somewhere in the middle. 
+# "beautiful people" 
+
+Marilyn Manson sang about, but I'm somewhere in the middle. 
 
 Except FB doesn't make me want to aspire to anything greater or better. No one goes on there to better themselves or to make others feel better about themselves. It's all about an image. 
 
@@ -150,15 +152,15 @@ literally and figuratively.
 
 It destroys 
 
-#minds 
+# minds 
 
 and 
 
-#families 
+# families 
 
 and 
 
-#friendships. 
+# friendships. 
 
 Why do I gotta know that this person went out to eat at Denny's today? Why is that important? Why do I gotta see his pics of his bacon and eggs? Why can't people be more private anymore? 
 
@@ -166,11 +168,11 @@ Gotta share everything.
 
 Share it all. 
 
-#Vomit! 
+# Vomit! 
 
 Exorcise the 
 
-#demons 
+# demons 
 
 onto 
 
@@ -180,7 +182,7 @@ Intake the demons right back into our souls.
 
 Our vapid, soul less, mindless, souls. 
 
-#Ghouls. 
+# Ghouls. 
 
 I hate it. 
 
@@ -208,7 +210,7 @@ I gotta share this pic.
 
 Ive thought about quitting FB in the past and my first thought was to go on FB and share with everyone how I was gonna quit FB. 
 
-#Ironic. 
+# Ironic. 
 
 I've always wondered if I just left, how long it would take anyone to even notice my absence. I don't think anyone would for quite awhile if at all because everyone is so into themselves and comparing themselves to everyone else.
 
@@ -246,25 +248,25 @@ I would love to be able to quantify how much time I've literally spent on FB,
 
 that's 
 
-#time 
+# time 
 
-#time 
+# time 
 
-#time 
+# time 
 
 that can't be gotten back. 
 
 That's
 
-#time 
+# time 
 
-#time 
+# time 
 
-#time 
+# time 
 
 gone. 
 
-#Wasted. 
+# Wasted. 
 
 Time could have been spent reading a book or teaching myself how to code or going to the gym or heaven forbid SPENDING TIME WITH MY FAMILY. 
 
@@ -272,7 +274,7 @@ It's awful how much of our lives are spent staring into our screens. Maybe it's 
 
 We are 
 
-#addicted. 
+# addicted. 
 
 We gotta have it. 
 
@@ -280,13 +282,13 @@ And just like cigarettes, it was designed that way.
 
 I want to live my life with more intentionality. I want to be intentional about everything I do. I don't wanna reach for my phone just because I'm bored. Reach for a book or my kindle and read. Read a long blog post. Do 5 minutes of coding. Learn a bit more about JavaScript. 
 
-#Learn. 
+# Learn. 
 
-#Read. 
+# Read. 
 
-#Do. Social media is meant to be passive, not active. All that time spent, 
+# Do. Social media is meant to be passive, not active. All that time spent, 
 
-#wasted, 
+# wasted, 
 
 what has anyone actually gotten out of it that's worthwhile? What have we gotten for our time, besides empty vacuous lives? 
 
