@@ -11,9 +11,8 @@ comments: true
 > -- Aristotle
 
 So I started going back to school, again, at the age of 46, for Computer Science at my local 
-The current semester just ended and I got an A in Computer Science I and Calculus I. CS used C++ as the programming language. We touched on objects and classes but did not have to use them on the
-final <!--more-->  programming exam. We did have to use functions and an array to calculate a loan schedule on 
-a vehicle based upon user inputted data. I got a perfect score on my implementation. 
+community college. The current semester just ended and I got an A in Computer Science I and CalculusI. CS used C++ as the programming language. We touched on objects and classes but did not have to
+use them on the final <!--more-->  programming exam. We did have to use functions and an array to calculate a loan schedule on a vehicle based upon user inputted data. I got a perfect score on my implementation. 
 
 I am also trying to learn as much as I can on my own and that includes writing this blog post in 
 Vim. Completed Vimtutor and now trying to use it as much as possible. In addition, I have been
