@@ -110,7 +110,7 @@ disqus: "flattdev"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 75
+excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
