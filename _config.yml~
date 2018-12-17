@@ -3,13 +3,8 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-<<<<<<< HEAD
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://bflatt72.github.io"
-=======
-# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://username.github.io"
->>>>>>> fcc45a319415285007542f88ddba56dc9379da31
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -69,7 +64,6 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-<<<<<<< HEAD
   name: Brian Flatt
   email: "bflatt72@gmail.com"
   facebook: brianflatt72  # eg. daattali
@@ -98,34 +92,6 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
-=======
-  name: Some Person
-
-# Select your active Social Network Links.
-# Uncomment the links you want to show in the footer and add your information to each link.
-# You can reorder the items to define the link order.
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
->>>>>>> fcc45a319415285007542f88ddba56dc9379da31
-
 # Select which share links to show in posts
 share-links-active:
   twitter: true
@@ -137,16 +103,9 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "https://bflatt72.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
-<<<<<<< HEAD
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "flattdev"
-=======
-# --- Web Statistics Section --- #
-
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
->>>>>>> fcc45a319415285007542f88ddba56dc9379da31
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
