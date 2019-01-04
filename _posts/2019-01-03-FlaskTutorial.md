@@ -1,5 +1,5 @@
 ---
-layout: posts 
+layout: post
 Title: FlaskTutorial
 Categories: Education
 Tags: SelfTaught
